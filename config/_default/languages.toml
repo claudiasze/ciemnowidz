@@ -1,0 +1,13 @@
+
+[pl]
+  title = "Jaśniejwidz" # just for the sake of showing this is possible
+  LanguageName = "Polski"
+  weight = 1
+  
+[en]
+  title = "Clarity"
+  LanguageName = "English"
+  weight = 2
+
+
+  

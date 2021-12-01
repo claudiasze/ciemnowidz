@@ -1,0 +1,38 @@
+
+[[main]]
+  name = "Wszystkie wpisy"
+  # url = "archives"
+  weight = -109
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "Linki"
+  identifier = "Links"
+  weight = -108
+[[main]]
+  parent = "Links"
+  name = "Racjonalista"
+  url = "http://www.racjonalista.pl/"
+[[main]]
+  parent = "Links"
+  name = "Marana Tha"
+  url = "http://marana-tha.pl/"
+
+
+[[main]]
+  name = "Współpraca"
+  url = "work/"
+  weight = -106
+
+[[main]]
+  name = "O Nas"
+  url = "about/"
+  weight = -103
+
+# social menu links
+
+
+[[social]]
+  name = "rss"
+  weight = 4
+  url = "index.xml"
