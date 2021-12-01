@@ -8,7 +8,9 @@ paginate = 10
 theme = "hugo-clarity"
 disqusShortname = ""
 
+
 DefaultContentLanguage = "pl"
+
 # [languages]
 # config/_default/languages.toml
 
